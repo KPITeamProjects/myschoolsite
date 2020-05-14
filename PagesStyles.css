@@ -106,7 +106,7 @@ body{
     margin-top: 5vh;
 }
 #myTable tr{
-    width: 100%;
+    width: 100vh;
 }
 #myTable tr td{
     background-color: deepskyblue;
